@@ -1,0 +1,12 @@
+{
+  "name": "zbyog_test_bug_fixes_2",
+  "version": "1.0.0",
+  "description": "ZBYOG_TEST_BUG_FIXES_2",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "keepClient": "false"
+  }
+}
